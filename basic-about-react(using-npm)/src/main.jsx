@@ -5,11 +5,13 @@ import App from './App.jsx'
 
 function myApp(){
   return(
-    <>
+    <div>
     <h1>Customm APP !</h1>
-    </>
+    </div>
   )
 }
+
+
 
 
 createRoot(document.getElementById('root')).render(
