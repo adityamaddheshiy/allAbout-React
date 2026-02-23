@@ -1,0 +1,12 @@
+.btn{
+    background-color:red;
+    border-radius: 5px;
+    /* color; */
+    width: fit-content;
+    padding: 10px 20px;
+    margin: 5px;
+}
+h3{
+    background-color: greenyellow;
+    color: black;
+}
