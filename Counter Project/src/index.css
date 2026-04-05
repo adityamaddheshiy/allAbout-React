@@ -1,0 +1,25 @@
+body {
+    /* background-color: black; */
+    align-items: center ;
+    background-color: #285A48;
+}
+
+button {
+    padding: 20px 60px;
+    margin: 20px;
+    border-radius: 10px;
+    background-color:#BDA6CE;
+}
+
+h1 {
+    height: 200px;
+    width: 500px;
+    padding: 20px 60px;
+    margin: 20px;
+    background-color:black;
+    color: whitesmoke;
+    border-radius: 20px;
+    align-items: center;
+    text-align:center;
+    
+}
